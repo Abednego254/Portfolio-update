@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImage from "../assets/logo.jpg"; // use your photo from assets
+import heroImage from "../assets/profile.jpeg"; // use your photo from assets
 
 function Hero() {
   // Smooth scroll to the Projects section

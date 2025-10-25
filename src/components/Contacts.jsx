@@ -39,7 +39,7 @@ function Contacts() {
         <div className="mb-10">
           <p className="mb-2">📧 <a href="mailto:abednegokaume@gmail.com" className="text-blue-400 hover:underline">abednegokaume@gmail.com</a></p>
           <p className="mb-2">📱 <a href="tel:0742600965" className="text-blue-400 hover:underline">0742600965</a></p>
-          <p className="mb-2">🌍 Roysambu, Nairobi</p>
+          <p className="mb-2">🌍 Nyahururu, Laikipia</p>
           <p className="mb-2">
             💼 <a href="https://www.linkedin.com/in/kaume-abednego-937469362" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">LinkedIn</a> |{" "}
             <a href="https://github.com/Abednego254" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">GitHub</a>

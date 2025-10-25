@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react"; // icons for hamburger menu
-import logo from "../assets/logo.jpg"; // your photo/logo
+import logo from "../assets/profile.jpeg"; // your photo/logo
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
