@@ -48,7 +48,7 @@ function Projects() {
     {
       title: "Rental App (Live)",
       description:
-        "Rental management platform with both admin and tenant login features, hosted on Render. The Username is Abedie and the password is Ciumbe@254",
+        "Rental management platform with both admin and tenant login features, hosted on Render. Reach out to me for logins",
       link: "https://rental-app-n5dp.onrender.com/",
     },
     {
