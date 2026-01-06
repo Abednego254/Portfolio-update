@@ -27,7 +27,7 @@ function Hero() {
           Hi, I’m <span className="text-blue-400">Abednego</span> 👋
         </h1>
         <p className="text-lg text-gray-300">
-          IT Student | Developer | Tech Enthusiast
+          Computer Science Student | Developer | Tech Enthusiast | Software Development Intern
         </p>
         <p className="text-sm text-gray-400 max-w-md mx-auto md:mx-0">
           Passionate about creating innovative solutions and exploring modern
